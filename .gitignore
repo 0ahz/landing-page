@@ -1,0 +1,15 @@
+!.gitkeep
+.DS_Store
+.idea
+.vscode
+
+npm-debug.log
+npm-debug.log.*
+
+Thumbs.db
+Desktop.ini
+
+node_modules/
+.next/
+out/
+
